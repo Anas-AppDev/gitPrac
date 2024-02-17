@@ -8,5 +8,5 @@ print("hjkl ")
 
 print("Cod emoodified")
 
-
-#bewafa
+line1 = "line 1"
+line2 = "line 2"
