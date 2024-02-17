@@ -1,6 +1,9 @@
-a = "Anas"
+input1 = "Anas"
 
-b = "ghjk"
+input2 = "ghjk"
 
 
 print("hjkl ")
+
+
+print("Cod emoodified")
