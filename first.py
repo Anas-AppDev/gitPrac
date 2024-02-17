@@ -11,3 +11,5 @@ print("Cod emoodified")
 line1 = "line 1"
 
 print("new feature")
+
+print("new feature2")
