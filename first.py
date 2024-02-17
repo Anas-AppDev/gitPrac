@@ -7,3 +7,5 @@ print("hjkl ")
 
 
 print("Cod emoodified")
+
+line1 = "line 1"
